@@ -1,0 +1,7 @@
+directed
+3
+nako
+bako
+ako
+nako bako
+nako ako

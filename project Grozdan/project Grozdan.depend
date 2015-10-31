@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1432382386 source:e:\tu_georgi\project grozdan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432380800 e:\tu_georgi\project grozdan\h10.h
+
+1432381213 source:e:\tu_georgi\project grozdan\menu11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\addinl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\date10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\edit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\inlastfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\last.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\memoryfree10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\old.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\printlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\readf10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\remove1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\writefile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+
+1432382386 source:e:\tu_georgi\project grozdan\writes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h10.h"
+

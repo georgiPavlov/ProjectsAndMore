@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431360481 source:e:\tu_georgi\kurosva final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerFinal.h"
+
+1431212077 e:\tu_georgi\kurosva final\headerfinal.h
+

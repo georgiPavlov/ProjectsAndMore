@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1430768506 source:e:\tu_georgi\kursova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430767559 source:e:\tu_georgi\kursova\menu.c
+	<stdio.h>
+
+1430767777 source:e:\tu_georgi\kursova\carmemory last.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430834308 e:\tu_georgi\kursova\header.h
+
+1430767777 source:e:\tu_georgi\kursova\carmemory.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430767899 source:e:\tu_georgi\kursova\readfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430768067 source:e:\tu_georgi\kursova\carmemory insert last.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430778583 source:e:\tu_georgi\kursova\removecar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430768242 source:e:\tu_georgi\kursova\printcarsearch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430768310 source:e:\tu_georgi\kursova\pricecar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430768387 source:e:\tu_georgi\kursova\writefile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430768506 source:e:\tu_georgi\kursova\memoryfree1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+

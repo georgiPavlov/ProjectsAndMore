@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project Grozdan" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/project Grozdan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/project Grozdan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="WriteFile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addinL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="date10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="edit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="h10.h" />
+		<Unit filename="h24.h" />
+		<Unit filename="inlastfile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="last.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memoryfree10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="old.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="readf10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="remove1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="writeS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1433195390 source:e:\tu_georgi\fff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h24final.h"
+
+1433198042 e:\tu_georgi\fff\h24final.h
+

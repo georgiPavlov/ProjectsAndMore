@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1432711383 source:e:\tu_georgi\11 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"h11.h"
+
+1432675011 e:\tu_georgi\11 project\h11.h
+
